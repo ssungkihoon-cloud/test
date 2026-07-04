@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub 실습</title>
+</head>
+<body>
+  <h1>GitHub Push 실습</h1>
+  <p>로컬에서 만든 파일을 GitHub에 올립니다.</p>
+</body>
+</html>
